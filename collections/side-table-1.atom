@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.artisticindians.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.artisticindians.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.artisticindians.com/collections/side-table-1.atom"/>
+  <title>Artistic Indians</title>
+  <updated>2025-09-13T12:29:42-04:00</updated>
+  <author>
+    <name>Artistic Indians</name>
+  </author>
+  <entry>
+    <id>https://www.artisticindians.com/products/7757463093490</id>
+    <published>2025-09-13T12:29:42-04:00</published>
+    <updated>2025-09-13T12:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.artisticindians.com/products/sideboard-ai-11713"/>
+    <title>Sideboard AI-11713</title>
+    <s:type>Sideboard</s:type>
+    <s:vendor>Artistic Indians</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0615/2926/0274/products/Global67.jpg?v=1661797323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artistic Indians<br>
+        <strong>Type: </strong>Sideboard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global_Product</s:tag>
+    <s:variant>
+      <id>https://www.artisticindians.com/products/7757463093490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AI-11713</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.artisticindians.com/products/7482592395506</id>
+    <published>2025-09-13T12:29:41-04:00</published>
+    <updated>2025-09-13T12:29:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.artisticindians.com/products/side-table-ai-11400"/>
+    <title>Side Table AI-11400</title>
+    <s:type>Side Table</s:type>
+    <s:vendor>Artistic Indians</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0615/2926/0274/products/AI-11400_0928d0fe-4a65-4619-8153-60a75e9e850e.jpg?v=1639478745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artistic Indians<br>
+        <strong>Type: </strong>Side Table<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global_Product</s:tag>
+    <s:variant>
+      <id>https://www.artisticindians.com/products/7482592395506</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AI-11400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

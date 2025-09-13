@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.artisticindians.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.artisticindians.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.artisticindians.com/collections/decor.atom"/>
+  <title>Artistic Indians</title>
+  <updated>2025-09-13T12:29:43-04:00</updated>
+  <author>
+    <name>Artistic Indians</name>
+  </author>
+  <entry>
+    <id>https://www.artisticindians.com/products/7482584760562</id>
+    <published>2025-09-13T12:29:43-04:00</published>
+    <updated>2025-09-13T12:29:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.artisticindians.com/products/wall-art-ai-11300"/>
+    <title>Wall Art AI-11300</title>
+    <s:type>Wall Art</s:type>
+    <s:vendor>Artistic Indians</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0615/2926/0274/products/AI-11300_0140a107-0d73-48bc-bb48-d3229de81bb4.jpg?v=1639478608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artistic Indians<br>
+        <strong>Type: </strong>Wall Art<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global_Product</s:tag>
+    <s:variant>
+      <id>https://www.artisticindians.com/products/7482584760562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AI-11300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.artisticindians.com/products/7757461422322</id>
+    <published>2025-09-13T12:29:40-04:00</published>
+    <updated>2025-09-13T12:29:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.artisticindians.com/products/mirror-ai-11699"/>
+    <title>Mirror AI-11699</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Artistic Indians</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0615/2926/0274/products/Global53.jpg?v=1661797286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artistic Indians<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global_Product</s:tag>
+    <s:variant>
+      <id>https://www.artisticindians.com/products/7757461422322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AI-11699</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.artisticindians.com/products/7482715570418</id>
+    <published>2025-09-13T12:29:39-04:00</published>
+    <updated>2025-09-13T12:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.artisticindians.com/products/mirror-ai-11113"/>
+    <title>Mirror AI-11113</title>
+    <s:type>Mirror</s:type>
+    <s:vendor>Artistic Indians</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0615/2926/0274/products/AI-11113.jpg?v=1639478343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Artistic Indians<br>
+        <strong>Type: </strong>Mirror<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Global_Product</s:tag>
+    <s:variant>
+      <id>https://www.artisticindians.com/products/7482715570418</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>AI-11113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
